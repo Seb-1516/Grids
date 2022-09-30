@@ -1,0 +1,48 @@
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+    font-size: 80px;
+}
+
+div{
+    width: 50%;
+    height: 100%;
+    position: absolute;
+}
+
+
+.unogd{
+    background-color: violet;
+    left: 0%;
+    top: 0%;
+   }
+   
+   
+   .dosgd
+   {
+       background-color: orange;
+       right: 0%;
+       bottom: 0%;
+       display: flex;
+       justify-content: flex-end;
+       align-items: flex-end;
+   
+   }
+   
+   .tresgd
+   {
+       background-color: red;
+       width: 150px;
+       height: 150px;
+       bottom: 0%;
+       top:50%;
+       left: 46.5%;
+   }
+   
+   
+   

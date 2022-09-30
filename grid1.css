@@ -1,0 +1,63 @@
+/*ejemplo divs*/
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+    font-size: 80px;
+}
+
+div{
+    width: 50%;
+    height: 33.333333333333333333%;
+    position: absolute;
+}
+
+
+.uno{
+ background-color: orange;
+ left: 0%;
+ top: 0%;
+}
+
+
+.dos
+{
+    background-color: blue;
+    left: 0%;
+    top: 33.333333333333333333%;
+    
+
+}
+
+.tres
+{
+    background-color: violet;
+    left: 0%;
+    bottom:0%;
+
+    
+}
+
+.cuatro
+{
+    background-color: greenyellow;
+    top:0%;
+    right:0%;
+}
+.cinco
+{
+    background-color: aqua;
+    right: 0%;
+    top: 33.333333333333333333%;
+    
+}
+.seis
+{
+    background-color: red;
+   
+    right: 0%;
+    bottom:0%;
+}
+
+
